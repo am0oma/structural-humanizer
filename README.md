@@ -1,6 +1,7 @@
 # structural-humanizer
 
 An agent skill that makes AI-assisted writing **less templated at the structural level**, not just the word level.
+Based on this research paper https://arxiv.org/html/2604.03136v6
 
 ## Why
 
