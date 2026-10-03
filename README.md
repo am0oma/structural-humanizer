@@ -81,15 +81,15 @@ Copy the contents of `SKILL.md` (below the frontmatter) into your `AGENTS.md`, `
 Just ask for writing:
 
 ```text
-Write a blog post about our migration from Heroku to Fly.io.
+/structural-humanizer De-Ai your last answer
 ```
 
 ```text
-Rewrite draft.md. It sounds like ChatGPT.
+/structural-humanizer Rewrite draft.md. It sounds like ChatGPT.
 ```
 
 ```text
-Humanize this article. Fix the structure, not just the wording.
+/structural-humanizer Humanize this article. Fix the structure, not just the wording.
 ```
 
 For best results, give it real material: an anecdote, a date, a named person or place, a number from real experience. If you don't, it will flag where those are needed.
