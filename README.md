@@ -42,14 +42,12 @@ cd structural-humanizer
 Personal (all projects):
 
 ```bash
-mkdir -p ~/.claude/skills
 cp -r skills/structural-humanizer ~/.claude/skills/
 ```
 
 Project only:
 
 ```bash
-mkdir -p .claude/skills
 cp -r skills/structural-humanizer .claude/skills/
 ```
 
@@ -58,7 +56,6 @@ Restart Claude Code. It triggers automatically on writing/editing requests, or c
 ### Codex CLI
 
 ```bash
-mkdir -p ~/.codex/skills
 cp -r skills/structural-humanizer ~/.codex/skills/
 ```
 
@@ -67,7 +64,6 @@ Or per repo: `.codex/skills/`. If your Codex version doesn't load skills, paste 
 ### Pi coding agent
 
 ```bash
-mkdir -p ~/.pi/agent/skills
 cp -r skills/structural-humanizer ~/.pi/agent/skills/
 ```
 
